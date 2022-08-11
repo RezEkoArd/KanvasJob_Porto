@@ -85,21 +85,7 @@ const ListJob = () => {
                                                 </span>
                                             </div>
                                             </form>
-                                            <div className="w-full">
-                                                <div className=" relative ">
-                                                  <input type="text" id="search-form-name" className=" rounded-lg border-transparent flex-1 appearance-none border border-gray-300 w-full py-1 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-sm text-sm focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent" placeholder="Kota"/>
-                                                 </div>
-                                            </div>
-                                            <div className="w-full">
-                                                <div className=" relative ">
-                                                  <input type="text" id="search-form-name" className=" rounded-lg border-transparent flex-1 appearance-none border border-gray-300 w-full py-1 px-4 bg-white text-gray-700 placeholder-gray-400 shadow-sm text-sm focus:outline-none focus:ring-2 focus:ring-purple-600 focus:border-transparent" placeholder="Offering"/>
-                                                 </div>
-                                            </div>
-                                            <div>
-                                                 <span className="block w-full rounded-md shadow-sm">
-                                                    <button type="button" className="py-1 px-4  outline outline-offset outline-indigo-600 hover:bg-indigo-700 hover:text-white focus:ring-indigo-500 focus:ring-offset-indigo-200 text-dark w-full transition ease-in duration-200 text-center text-base font-semibold shadow-md focus:outline-none focus:ring-2 focus:ring-offset-2  rounded-lg ">Filter</button>
-                                                </span>
-                                            </div>
+                                
                                         </div>
                                     </div>
                                 </div>
